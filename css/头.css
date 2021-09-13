@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.dhzitiquanbu{
+	margin: 0px;
+	margin-top: 5px;
+	height: 100px;
+}/*导航设置*/
+.daohongbox{
+	background-color:cadetblue;
+	filter: opacity(0.8);
+	overflow: hidden;
+	height: 50px;
+}/*导航*/
+.daohang{
+    margin-top: 0px;
+    margin-left: 80px;
+}/*导航字体位置*/
+.daohang ul{
+	font-size: 25px;
+	height: 10px;
+}
+.daohang li{
+	font-family: "微软雅黑";
+    color: whitesmoke;
+    width: 60px;
+    height: 10px;
+    float: left;
+    padding:20px;
+    line-height: 10px;
+    background-color: rgba(0,236,247,0.64);
+	margin-left: 40px;
+}/*导航设置具体*/
+.daohang a{
+	text-decoration: none;
+	list-style: none;
+}
+.daohang li{
+	text-align: center;
+}/*导航字体*/
+.daohang li:hover{
+	transition: all 0.5s;
+	transform: scale(1);/*放大特效*/
+	background:rgba(42,188,146,0.59);
+	width: 50px;
+	margin-top: auto;
+}/*从这向上都是导航层*/
+.sous{
+	padding: 0px;
+	margin: 0px;
+	margin-left: 60px;
+}
+.sousuo{
+	width: 422px;
+    height: 50px;
+    margin-top: 400px;
+    margin-top: -13px;
+	position: absolute;
+}/*上面都是搜索栏*/

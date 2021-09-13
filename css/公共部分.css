@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+.htmlheard{
+	margin: 0px;
+	padding: 0px;
+	height: 2000px;
+}
+.bjt{
+	position: fixed;
+	left: 0px;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	filter: opacity(0.4);
+	overflow: hidden;
+}
+.bjt{
+	background-image: url("../images/背景图.jfif");
+}
+.weather{
+	width: 300px;
+	height: 100px;
+	
+}
+.weather img{
+	margin-right: 9px;
+    margin-top: 2px;
+}
+.ssd {
+	margin-top: 100px;
+	margin-top: -26px;
+    margin-left: 166px;
+}
+
+.weizhi{
+	width: 200px;
+	height: 50px;
+	margin-top: -73px;
+    margin-left: 135px;
+}
+.weizhi1 span{
+}
+.bjttu{/*上背景图*/
+	height: 100px;
+	background-image:url("../images/背景图.jfif");
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	filter: opacity(0.5);
+}
+
+.shangbjt{
+	background-color:crimson;
+	margin: 0px;
+	padding: 0px;
+	height: 40px;
+}    /*上背景图*/
+.shangbjt1{
+	background-color:darkgreen;
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+    margin-top: -20px;
+}
+.shangbjt2{
+	background-color:cornflowerblue;
+	margin: 0px;
+	padding: 0px;
+	height: 20px;
+    margin-top: -10px;
+}
